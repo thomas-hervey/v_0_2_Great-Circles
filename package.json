@@ -18,6 +18,7 @@
     "react-native": "https://github.com/expo/react-native/archive/sdk-22.0.2.tar.gz"
   },
   "devDependencies": {
+    "babel-cli": "^6.26.0",
     "babel-eslint": "^8.0.2",
     "babel-preset-flow": "^6.23.0",
     "babel-preset-react-native": "^4.0.0",

@@ -3,6 +3,8 @@
   "extends": "airbnb",
   "plugins": ["react", "jsx-a11y", "import"],
   "rules": {
-    "semi": [2, "never"]
+    "semi": [2, "never"],
+    "no-use-before-define": ["error", { "variables": false }],
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }]
   }
 }
