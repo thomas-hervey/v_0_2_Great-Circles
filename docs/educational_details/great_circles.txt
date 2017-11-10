@@ -1,0 +1,6 @@
+11.10.17
+Paraphrased from https://www.youtube.com/watch?v=ZKNRBy22QWs
+On a map of almost all projections, almost all shortest-distance paths is represented by a curve, not a straight line.
+Meaning, that a line of constant bearing for a Mercator (square looking map, with a cylinrical projection), will not be the shortest path. It would not be a great circle.
+
+Alternatively, you need to use a projection, such as azmuthal equidistant, where any line drawn through the center of the projection is a great circle route
