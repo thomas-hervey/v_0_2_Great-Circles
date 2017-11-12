@@ -1,0 +1,7 @@
+Items to install:
+react-redux
+react-dom
+redux
+redux-thunk
+
+axios
